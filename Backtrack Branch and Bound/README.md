@@ -1,5 +1,7 @@
-**Definition:** Algorithmic techniques for solving combinatorial optimization problems by exploring possible solutions incrementally and abandoning those that do not meet the criteria.
-**Loop Characteristics:** Recursion with loops trying out possible steps.
+## **Definition:** 
+Algorithmic techniques for solving combinatorial optimization problems by exploring possible solutions incrementally and abandoning those that do not meet the criteria.
+## **Loop Characteristics:** 
+Recursion with loops trying out possible steps.
 
 ## Sample Code
 ```cpp
